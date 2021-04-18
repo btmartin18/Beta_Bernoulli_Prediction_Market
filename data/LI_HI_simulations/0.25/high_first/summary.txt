@@ -1,0 +1,17 @@
+Sequence type:               high_first
+p_true:                      0.25
+High informativeness:        500 traders with 5 observations
+Low informativeness:         500 traders with 1 observations
+Convergence criteria:        1 rounds or 1e-05 change in L2 norm of share vector
+
+CONFIDENCE INTERVALS:
+Rounds:                     0.0 \pm 0.0
+Converged Params:           [ 750.72 2251.28] \pm [1.42259765 1.42259765]
+Average High Info Comp:     0.00669848055042695 \pm 7.625810467415838e-05
+Average Low Info Comp:      0.00020823772241181416 \pm 5.078047502017608e-05
+Individual High Info Comp:  0.006698480550426948 \pm 0.0003117632680951513
+Individual Low Info Comp:   0.00020823772241181337 \pm 5.14493216308081e-05
+First 10 low:               0.0004385883963538914 \pm 0.0003288130223370763
+First 10 high:              0.13668984802072429 \pm 0.07400300003436033
+Last 10 low:                -7.631386145135103e-05 \pm 0.0004509705823082387
+Last 10 high:               0.0015546528766283208 \pm 0.0007575191356798269

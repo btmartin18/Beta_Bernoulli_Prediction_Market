@@ -1,0 +1,17 @@
+Sequence type:               interleaved
+p_true:                      0.5
+High informativeness:        500 traders with 5 observations
+Low informativeness:         500 traders with 1 observations
+Convergence criteria:        1 rounds or 1e-05 change in L2 norm of share vector
+
+CONFIDENCE INTERVALS:
+Rounds:                     0.0 \pm 0.0
+Converged Params:           [1501.269 1500.731] \pm [1.69416423 1.69416423]
+Average High Info Comp:     0.0055649027652671 \pm 0.00014252373330692097
+Average Low Info Comp:      0.0009942642557845885 \pm 0.00012273174069476686
+Individual High Info Comp:  0.005564902765267101 \pm 0.00028384919310752473
+Individual Low Info Comp:   0.000994264255784619 \pm 0.00012534277827960184
+First 10 low:               0.01887858628729686 \pm 0.00809628938205959
+First 10 high:              0.0010734902394481274 \pm 0.001234393160598664
+Last 10 low:                0.00012700131427516222 \pm 0.0001529791344312068
+Last 10 high:               0.0006655125237769034 \pm 0.0013079718865807238

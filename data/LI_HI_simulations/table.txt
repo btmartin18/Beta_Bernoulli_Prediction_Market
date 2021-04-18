@@ -1,0 +1,9 @@
+$0.75$ & High Info First & $6.66 \pm 0.09$ & $0.18 \pm 0.05$ \\
+$0.75$ & Low Info First & $1.75 \pm 0.12$ & $5.07 \pm 0.09$ \\
+$0.75$ & Interleaved & $5.51 \pm 0.15$ & $1.29 \pm 0.13$ \\
+$0.5$ & High Info First & $6.37 \pm 0.08$ & $0.17 \pm 0.05$ \\
+$0.5$ & Low Info First & $1.75 \pm 0.11$ & $4.78 \pm 0.09$ \\
+$0.5$ & Interleaved & $5.56 \pm 0.14$ & $0.99 \pm 0.12$ \\
+$0.25$ & High Info First & $6.7 \pm 0.08$ & $0.21 \pm 0.05$ \\
+$0.25$ & Low Info First & $1.8 \pm 0.11$ & $5.04 \pm 0.09$ \\
+$0.25$ & Interleaved & $5.52 \pm 0.14$ & $1.26 \pm 0.12$ \\
