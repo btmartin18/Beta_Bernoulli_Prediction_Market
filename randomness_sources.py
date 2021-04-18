@@ -245,6 +245,9 @@ def main():
                     arr_high_avg[dp, sq] = exp_high
                     arr_low_avg[dp, sq] = exp_low
 
+            print('HI avg:', str(np.mean(arr_high_avg)))
+            print('LI avg:', str(np.mean(arr_low_avg)))
+
             with open(path + 'high_comp.txt', 'w') as f:
                 for r in arr_high_avg:
                     for c in r:
